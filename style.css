@@ -1,9 +1,19 @@
 h1{
-	
+	outline-style: dotted;
 	color: green;
 	text-align: center;
 }
 
 p{
 	background; green;
+}
+body {
+  background-color: lightblue;
+
+  color: blue;
+}
+
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
 }
